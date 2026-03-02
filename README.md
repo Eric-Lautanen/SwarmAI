@@ -17,7 +17,7 @@ Modern AI is centralized, compute-hungry, and sanitized.
 - "Safety" layers censor reality.  
 
 SwarmAI flips it:  
-- Run on idle laptops, Raspberry Pis, old phones.  
+- Run on idle laptops, Raspberry Pis.  
 - No training loop—just ingest, branch, decay, gossip.  
 - Knowledge is fractal, not flat; high-entropy hubs (like "void") connect everything.  
 - If one node gets poisoned? Others vote it out via decay and recency.
