@@ -2,7 +2,7 @@
 
 **Version 0.1**  
 **March 2026**  
-**Author: whisperbeep**  
+**Author: Eric Lautanen**  
 **License: Unlicense – take it, break it, burn it.**
 
 ## Abstract
